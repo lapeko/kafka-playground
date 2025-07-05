@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 2-spring-webflux
+  kafka:
+    bootstrap-servers: "localhost:9092,localhost:9093,localhost:9094"
+
+topics:
+  people-basic:
+    name: "people.basic.java"
+    partitions: 3
+    replicas: 3
