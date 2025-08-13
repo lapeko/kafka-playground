@@ -1,4 +1,4 @@
-module github.com/lapeko/kafka-playground/3-go-kafka-docker-compose/consumer
+module github.com/lapeko/kafka-playground/3-go-kafka-docker-compose/face-extractor
 
 go 1.24.5
 

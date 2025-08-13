@@ -14,7 +14,7 @@ import (
 
 const (
 	BROKER_ADDR = "localhost:9092"
-	TOPIC_NAME  = "videos"
+	TOPIC_NAME  = "video-uploaded"
 )
 
 func main() {
